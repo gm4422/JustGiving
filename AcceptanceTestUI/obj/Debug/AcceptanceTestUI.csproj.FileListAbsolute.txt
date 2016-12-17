@@ -1,0 +1,13 @@
+C:\Users\garym\documents\visual studio 2015\Projects\JustGivingAPITesting\AcceptanceTestUI\obj\Debug\AcceptanceTestUI.csprojResolveAssemblyReference.cache
+C:\Users\garym\documents\visual studio 2015\Projects\JustGivingAPITesting\AcceptanceTestUI\bin\Debug\AcceptanceTestUI.dll.config
+C:\Users\garym\documents\visual studio 2015\Projects\JustGivingAPITesting\AcceptanceTestUI\bin\Debug\AcceptanceTestUI.dll
+C:\Users\garym\documents\visual studio 2015\Projects\JustGivingAPITesting\AcceptanceTestUI\bin\Debug\AcceptanceTestUI.pdb
+C:\Users\garym\documents\visual studio 2015\Projects\JustGivingAPITesting\AcceptanceTestUI\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\garym\documents\visual studio 2015\Projects\JustGivingAPITesting\AcceptanceTestUI\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\garym\documents\visual studio 2015\Projects\JustGivingAPITesting\AcceptanceTestUI\bin\Debug\WebDriver.dll
+C:\Users\garym\documents\visual studio 2015\Projects\JustGivingAPITesting\AcceptanceTestUI\bin\Debug\WebDriver.Support.dll
+C:\Users\garym\documents\visual studio 2015\Projects\JustGivingAPITesting\AcceptanceTestUI\bin\Debug\WebDriver.xml
+C:\Users\garym\documents\visual studio 2015\Projects\JustGivingAPITesting\AcceptanceTestUI\bin\Debug\WebDriver.Support.xml
+C:\Users\garym\documents\visual studio 2015\Projects\JustGivingAPITesting\AcceptanceTestUI\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\garym\documents\visual studio 2015\Projects\JustGivingAPITesting\AcceptanceTestUI\obj\Debug\AcceptanceTestUI.dll
+C:\Users\garym\documents\visual studio 2015\Projects\JustGivingAPITesting\AcceptanceTestUI\obj\Debug\AcceptanceTestUI.pdb

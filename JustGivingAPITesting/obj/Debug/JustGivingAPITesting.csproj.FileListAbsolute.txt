@@ -1,0 +1,9 @@
+C:\Users\garym\documents\visual studio 2015\Projects\JustGivingAPITesting\JustGivingAPITesting\bin\Debug\JustGivingAPITesting.dll
+C:\Users\garym\documents\visual studio 2015\Projects\JustGivingAPITesting\JustGivingAPITesting\bin\Debug\JustGivingAPITesting.pdb
+C:\Users\garym\documents\visual studio 2015\Projects\JustGivingAPITesting\JustGivingAPITesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\garym\documents\visual studio 2015\Projects\JustGivingAPITesting\JustGivingAPITesting\bin\Debug\RestSharp.dll
+C:\Users\garym\documents\visual studio 2015\Projects\JustGivingAPITesting\JustGivingAPITesting\bin\Debug\RestSharp.xml
+C:\Users\garym\documents\visual studio 2015\Projects\JustGivingAPITesting\JustGivingAPITesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\garym\documents\visual studio 2015\Projects\JustGivingAPITesting\JustGivingAPITesting\obj\Debug\JustGivingAPITesting.csprojResolveAssemblyReference.cache
+C:\Users\garym\documents\visual studio 2015\Projects\JustGivingAPITesting\JustGivingAPITesting\obj\Debug\JustGivingAPITesting.dll
+C:\Users\garym\documents\visual studio 2015\Projects\JustGivingAPITesting\JustGivingAPITesting\obj\Debug\JustGivingAPITesting.pdb
